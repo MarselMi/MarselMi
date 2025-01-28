@@ -19,7 +19,7 @@
 - **Описание:** RESTful API для книжной библиотеки, разработанный с использованием Django и DRF, с применением токеновой аутентификации и JWT
 - **Стек:** Django, DRF, Postgresql
 - 
-###  [Backend API для e-commerce](https://github.com/MarselMi/JustHost_DRF)
+###  [REST-сервис для управления виртуальными серверами (VPS) ](https://github.com/MarselMi/JustHost_DRF)
 - **Описание:** RESTful API для управления настройками облачными серверами, разработанный с использованием Django и DRF.
 - **Стек:** Django, DRF, Docker
 
